@@ -78,7 +78,7 @@ If you are looking for an opinionated style guide for improve the performance of
     <p>Name: {{::name}}</p>
   </div>
   ```
-*Caution?*: Do not use this expression for variables that can be updated while the page is displayed.
+*Caution*: Do not use this expression for variables that can be updated while the page is displayed.
 
 ## Optimize performace to ng-show, ng-hide, ng-if and ng-repeat 
 
