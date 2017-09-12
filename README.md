@@ -1,4 +1,4 @@
-# AngularJS List Style Guide
+# AngularJS Style Guide for Listing
 
 ## Purpose
 *Opinionated Angular style guide for teams by [Fagner Silva Martins](https://www.linkedin.com/in/fagner-silva-martins-54780539/)*
